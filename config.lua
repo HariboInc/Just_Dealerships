@@ -1,5 +1,7 @@
 Config = {}
 
+Config.CheckForUpdates = true -- Set it to true if you want to get the latest version update info
+
 Config.minFinanceLength = 1 -- Minimum repayment time in weeks
 Config.maxFinanceLength = 8 -- Maximum repayment time in weeks
 
